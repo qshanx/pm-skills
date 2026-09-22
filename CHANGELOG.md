@@ -4,7 +4,7 @@
 
 ### pm-toolkit
 
-- Added the **skill-navigation** skill and `/ask-pm` command to help users choose an available PM capability from their situation, with support for partial installations and skills-only hosts (thanks @qshanx).
+- Added the **skill-navigation** skill and `/ask-pm` command to help users choose an available PM capability from their situation, with support for partial installations and skills-only hosts (#63, thanks @qshanx).
 
 ### pm-ai-shipping
 
